@@ -1,7 +1,7 @@
 {
   "appName": "demoapp",
   "userGivenName": "demoapp",
-  "destNamespace": "staging",
+  "destNamespace": "staging-demoapp",
   "destServer": "https://kubernetes.default.svc",
   "srcPath": "apps/demoapp/overlays/staging",
   "srcRepoURL": "https://github.com/serhiykrupka/env.git",
